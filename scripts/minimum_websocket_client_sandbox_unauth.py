@@ -32,5 +32,5 @@ async def websocket_auth_demo(uri):
                 print(msg)
 
 asyncio.get_event_loop().run_until_complete(
-    websocket_auth_demo('wss://ascendex.io:443/api/pro/v2/stream'))
+    websocket_auth_demo('wss://ascendex.com:443/api/pro/v2/stream'))
 

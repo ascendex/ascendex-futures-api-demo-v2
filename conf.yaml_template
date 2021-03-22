@@ -1,6 +1,6 @@
 ascendex:
-  base-url: "https://ascendex.io"
-  wss-endpoint: "ascendex.io"
+  base-url: "https://ascendex.com"
+  wss-endpoint: "ascendex.com"
   wss-port: 443
   group: <your-account-group>
   apikey: "<your-api-key>"
