@@ -1,0 +1,18 @@
+ascendex:
+  base-url: "https://ascendex.io"
+  wss-endpoint: "ascendex.io"
+  wss-port: 443
+  group: <your-account-group>
+  apikey: "<your-api-key>"
+  secret: "<your-api-secret>"
+  ssl: True
+
+
+ascendex-sandbox:
+  base-url: "https://api-test.ascendex-sandbox.io/"
+  wss-endpoint: "api-test.ascendex-sandbox.io"
+  wss-port: 443
+  group: <your-account-group>
+  apikey: "<your-api-key>"
+  secret: "<your-api-secret>"
+  ssl: True

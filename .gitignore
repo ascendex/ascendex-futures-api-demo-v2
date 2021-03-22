@@ -1,0 +1,7 @@
+*.yaml
+**/__pycache__
+**/*.pyc
+venv/
+.pytest_cache/
+.idea/
+!sample-conf.yaml
