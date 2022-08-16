@@ -7,7 +7,7 @@ from util import *
 
 
 @click.command()
-@click.option("--symbol", type=str, default=None, help="symbol: BTC-PERP")
+@click.option("--symbol", type=str, default=None, help="symbol: BTCUSDT")
 @click.option("--page", type=int, default=1, help="")
 @click.option("--pagesize", type=int, default=20, help="")
 @click.option("--config", type=str, default=None, help="path to the config file")
